@@ -1,1 +1,1 @@
-# JS-JQ-Plugin
+https://salman-noor-web.github.io/JS-JQ-Plugin/
